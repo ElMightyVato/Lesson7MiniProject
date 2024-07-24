@@ -1,0 +1,1 @@
+This app is to be used to try and create a list of tasks to get accomplished for your daily life. For example, if you have to clean your room later you can go ahead and open the app, select add task and type in clean in room. It will then output clean room incomplete. Hopefully with this app you'll be able to accomlish your tasks easier. 
